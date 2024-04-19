@@ -1,0 +1,98 @@
+movie_id,name,type
+0038109,Spellbound (1945),Film-Noir|Mystery|Romance|Thriller
+0068646,The Godfather (1972),Crime|Drama
+0075314,Taxi Driver (1976),Crime|Drama
+0076759,Star Wars (1977),Action|Adventure|Fantasy|Sci-Fi
+0080684,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Fantasy|Sci-Fi
+0086250,Scarface (1983),Crime|Drama
+0102926,The Silence of the Lambs (1991),Crime|Drama|Thriller
+0108598,The Wrong Trousers (1993),Animation|Short|Comedy|Crime|Family|Sci-Fi
+0110076,Hum Aapke Hain Koun...! (1994),Comedy|Drama|Musical|Romance
+0110475,The Mask (1994),Comedy|Fantasy
+0113277,Heat (1995),Crime|Drama|Thriller
+0114369,Se7en (1995),Crime|Drama|Mystery|Thriller
+0114508,Species (1995),Action|Horror|Sci-Fi|Thriller
+0114814,The Usual Suspects (1995),Crime|Mystery|Thriller
+0119282,Hercules (1997),Animation|Adventure|Comedy|Family|Fantasy|Musical|Romance
+0120737,The Lord of the Rings: The Fellowship of the Ring (2001),Adventure|Drama|Fantasy
+0124315,The Cider House Rules (1999),Drama|Romance
+0137523,Fight Club (1999),Drama
+0181875,Almost Famous (2000),Adventure|Comedy|Drama|Music
+0237572,The Pledge (2001),Crime|Drama|Mystery|Thriller
+0247745,Super Troopers (2001),Comedy|Crime|Mystery
+0267626,K-19: The Widowmaker (2002),Drama|History|Thriller|War
+0289879,The Butterfly Effect (2004),Drama|Sci-Fi|Thriller
+0317740,The Italian Job (2003),Action|Crime|Thriller
+0317919,Mission: Impossible III (2006),Action|Adventure|Thriller
+0338013,Eternal Sunshine of the Spotless Mind (2004),Drama|Romance|Sci-Fi
+0361748,Inglourious Basterds (2009),Adventure|Drama|War
+0368891,National Treasure (2004),Action|Adventure|Family|Mystery|Thriller
+0369610,Jurassic World (2015),Action|Adventure|Sci-Fi
+0405422,The 40 Year Old Virgin (2005),Comedy|Romance
+0437086,Alita: Battle Angel (2019),Action|Adventure|Sci-Fi|Thriller
+0448115,Shazam! (2019),Action|Adventure|Comedy|Fantasy
+0454876,Life of Pi (2012),Adventure|Drama|Fantasy
+0478970,Ant-Man (2015),Action|Adventure|Comedy|Sci-Fi
+0481141,No Reservations (2007),Comedy|Drama|Romance
+0499549,Avatar (2009),Action|Adventure|Fantasy|Sci-Fi
+0770828,Man of Steel (2013),Action|Adventure|Sci-Fi
+0790636,Dallas Buyers Club (2013),Biography|Drama
+0810819,The Danish Girl (2015),Biography|Drama|Romance
+0961097,Un monstre à Paris (2011),Animation|Adventure|Comedy|Fantasy|Music|Romance
+1001508,He's Just Not That Into You (2009),Comedy|Drama|Romance
+1024855,Gunned Down (2017),Action|Thriller
+1025100,Gemini Man (2019),Action|Drama|Sci-Fi|Thriller
+1142988,The Ugly Truth (2009),Comedy|Romance
+1188982,Jai Ho (2014),Action|Drama
+1210819,The Lone Ranger (2013),Action|Adventure|Western
+1282140,Easy A (2010),Comedy|Drama|Romance
+1292566,How to Be Single (2016),Comedy|Drama|Romance
+1305591,Mars Needs Moms (2011),Animation|Adventure|Family|Sci-Fi
+1343092,The Great Gatsby (2013),Drama|Romance
+1386697,Suicide Squad (2016),Action|Adventure|Fantasy|Sci-Fi
+1392190,Mad Max: Fury Road (2015),Action|Adventure|Sci-Fi|Thriller
+1428538,Hansel &amp; Gretel: Witch Hunters (2013),Action|Fantasy|Horror
+1431045,Deadpool (2016),Action|Adventure|Comedy|Sci-Fi
+1477855,Hyde Park on Hudson (2012),Biography|Comedy|Drama|History
+1542768,True Memoirs of an International Assassin (2016),Action|Comedy|Crime
+1661199,Cinderella (2015),Drama|Family|Fantasy|Romance
+1663662,Pacific Rim (2013),Action|Adventure|Sci-Fi
+1677720,Ready Player One (2018),Action|Adventure|Sci-Fi
+1707386,Les Misérables (2012),Drama|History|Musical|Romance|War
+1741243,Pawn Shop Chronicles (2013),Action|Comedy|Crime
+1790885,Zero Dark Thirty (2012),Drama|Thriller
+1798709,Her (2013),Drama|Romance|Sci-Fi
+1800241,American Hustle (2013),Crime|Drama
+1843866,Captain America: The Winter Soldier (2014),Action|Adventure|Sci-Fi|Thriller
+1872181,The Amazing Spider-Man 2 (2014),Action|Adventure|Sci-Fi
+1951261,The Hangover Part III (2013),Adventure|Comedy|Crime
+1951264,The Hunger Games: Catching Fire (2013),Action|Adventure|Sci-Fi|Thriller
+1979320,Rush (2013),Action|Biography|Drama|Sport
+1979376,Toy Story 4 (2019),Animation|Adventure|Comedy|Family|Fantasy
+2096673,Inside Out (2015),Animation|Adventure|Comedy|Drama|Family|Fantasy
+2103281,Dawn of the Planet of the Apes (2014),Action|Adventure|Drama|Sci-Fi
+2179136,American Sniper (2014),Action|Biography|Drama|War
+2277860,Finding Dory (2016),Animation|Adventure|Comedy|Family
+2278388,The Grand Budapest Hotel (2014),Adventure|Comedy|Crime|Drama
+2278871,La vie d'Adèle (2013),Drama|Romance
+2302755,Olympus Has Fallen (2013),Action|Thriller
+2334879,White House Down (2013),Action|Drama|Thriller
+2378281,No se Aceptan Devoluciones (2013),Comedy|Drama
+2380307,Coco (2017),Animation|Adventure|Comedy|Family|Fantasy|Music|Mystery
+2388771,Mowgli (2018),Adventure|Drama|Fantasy
+2574698,Gunday (2014),Action|Drama|Romance
+2584384,Jojo Rabbit (2019),Comedy|Drama|War
+2802144,Kingsman: The Secret Service (2014),Action|Adventure|Comedy|Thriller
+2872732,Lucy (2014),Action|Sci-Fi|Thriller
+2884206,I Origins (2014),Drama|Romance|Sci-Fi
+2980516,The Theory of Everything (2014),Biography|Drama|Romance
+3040964,The Jungle Book (2016),Adventure|Drama|Family|Fantasy
+3076658,Creed (2015),Drama|Sport
+3226786,Bigger (2018),Biography|Drama
+3450650,Paul Blart: Mall Cop 2 (2015),Action|Comedy|Crime|Family
+3612616,Mommy (2014),Drama
+4520988,Frozen II (2019),Animation|Adventure|Comedy|Family|Fantasy|Musical
+5022702,Hush (2016),Horror|Thriller
+7286456,Joker (2019),Crime|Drama|Thriller
+7798634,Ready or Not (2019),Horror|Mystery|Thriller
+10367276,The Rat (2019),Short|Drama

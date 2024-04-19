@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #afffc7;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden; /* Hide horizontal scrollbar */
+        }
+        h1 {
+            text-align: center;
+            margin-top: 50px;
+        }
+        form {
+            max-width: 300px;
+            margin: 0 auto;
+            background-color: hsl(338, 96%, 89%);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border:2px solid black;
+        }
+        label {
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="password"],
+        input[type="number"] {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin-top: 5px;
+            margin-bottom: 10px; /* Reduced margin */
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            width: 100%;
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 10px; /* Reduced margin */
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+        button {
+            display: block;
+            width: 350px;
+            margin: 0 auto;
+            background-color: red;
+            color: black;
+            padding: 10px;
+            border:2px solid black;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+        }
+        button:hover {
+            background-color: orange;
+        }
+    </style>
+</head>
+<body>
+    <h1>Register</h1>
+    <form action="/register" method="POST">
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username" required><br>
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password" required><br>
+        <label for="age">Age:</label><br>
+        <input type="number" id="age" name="age" required><br>
+        <label for="gender">Gender:</label><br>
+        <input type="text" id="gender" name="gender" required><br>
+        <input type="submit" value="Register">
+    </form>
+    <a href="/" style="display: block; text-align: center; text-decoration: none; margin-top: 10px;"><button>Back</button></a>
+</body>
+</html>
